@@ -1,7 +1,7 @@
 
 {
 	"spider": "https://gitee.com/cherry0532/tvbox/raw/master/jar/XC0818.jar;md5;c69b1be639443838733752102b575b06",
-	"wallpaper": "https://gitee.com/cherry0532/tvbox/raw/master/BG.php",
+	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
