@@ -14,7 +14,7 @@
 {"key":"csp_QQ","name":"🍅腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/18680363738/jianzhang/raw/branch/main/6.jar;md5;4a3cb7e090be8916fa23db20049f2647"},
-{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Kmys","name": "酷猫","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/18680363738/jianzhang/raw/branch/main/6.jar;md5;4a3cb7e090be8916fa23db20049f2647"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/18680363738/jianzhang/raw/branch/main/kang.jar;md5;f49657b939a9134ad6b947ccb9390e99"},
