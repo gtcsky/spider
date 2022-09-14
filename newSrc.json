@@ -20,7 +20,7 @@
 		//b站筛选嫖自Q群管理ZJ
 		{
 			"key": "csp_BBB",
-			"name": "教育（B站）",
+			"name": "B站教育",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 1,
@@ -30,7 +30,7 @@
 		},
 		{
 			"key": "360_spider",
-			"name": "通道-1（SP官解）",
+			"name": "360_spider",
 			"api": "csp_SP360",
 			"type": 3,
 			"filterable": 1,
