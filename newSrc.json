@@ -1,8 +1,8 @@
 ﻿{
-	// "spider": "http://刚刚.live/jar2/0906.jar", 
-	// //jar包嫖自TG群baitianwu大佬精细缝合
-	// "wallpaper": "http://刚刚.live/图",
-	// //直播没时间维护，白嫖云星日记
+	"spider": "http://刚刚.live/jar2/0906.jar", 
+	//jar包嫖自TG群baitianwu大佬精细缝合
+	"wallpaper": "http://刚刚.live/图",
+	//直播没时间维护，白嫖云星日记
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
