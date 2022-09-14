@@ -10,37 +10,7 @@
 ]}]}],
 
 "sites":[
-	    //b站筛选嫖自Q群管理ZJ
-	    {"key":"csp_BBB","name":"今天月亮和大家撞了个满怀~🥮","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
-	    {
-			"key": "360_spider",
-			"name": "通道-1（SP官解）",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		}, 
-		{
-			"key": "APPTT",
-			"name": "通道-10（SP）",
-			"api": "csp_AppTT",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		}, 
-		{"key":"csp_77","name":"通道-2（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
-		//来自桉佬提供的公开接口
-		{
-            "key":"感谢桉佬",
-            "name":"榜单荐片（桉佬T4）",
-            "type":4,
-            "api":"https://t4.secan.icu/vod?sites=voflix,bdys01,onelist,dy555,gitcafe&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=6",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
+
 {"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/18680363738/jianzhang/raw/branch/main/kang.jar;md5;f49657b939a9134ad6b947ccb9390e99"},
 {"key":"csp_QQ","name":"🍅腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
