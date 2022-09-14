@@ -39,7 +39,7 @@
 		},
 		{
 			"key": "APPTT",
-			"name": "通道-10（SP）",
+			"name": "APPTT（SP）",
 			"api": "csp_AppTT",
 			"type": 3,
 			"filterable": 1,
@@ -48,7 +48,7 @@
 		},
 		{
 			"key": "csp_77",
-			"name": "通道-2（SP）",
+			"name": "csp_77（SP）",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -67,7 +67,7 @@
 		},
 		{
 			"key": "Ikan",
-			"name": "通道-3（SP）",
+			"name": "Ikan（SP）",
 			"type": 3,
 			"api": "csp_IKan",
 			"searchable": 1,
@@ -76,7 +76,7 @@
 		},
 		{
 			"key": "Lezhu_spider",
-			"name": "通道-4（SP）",
+			"name": "乐猪（SP）",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -86,7 +86,7 @@
 		},
 		{
 			"key": "神马影院",
-			"name": "通道-5（SP）",
+			"name": "神马影院（SP）",
 			"type": 3,
 			"api": "csp_Smdyy",
 			"searchable": 1,
@@ -95,7 +95,7 @@
 		},
 		{
 			"key": "csp_Bttoo",
-			"name": "通道-6（SP）",
+			"name": "Bttoo（SP）",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -105,7 +105,7 @@
 		//	{"key":"csp_Jianying","name":"通道-7（SP）","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjI5MDIzMTEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.IAvkeXIIVKcPV7zqX-WbbaAx7weD-IalizR1lbQvTHA"},
 		{
 			"key": "小苹果",
-			"name": "通道-8（SP剧中有广告）",
+			"name": "小苹果（SP剧中有广告）",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
@@ -114,7 +114,7 @@
 		},
 		{
 			"key": "Kuaikan",
-			"name": "通道-9（SP）",
+			"name": "快看（SP）",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -123,7 +123,7 @@
 		},
 		{
 			"key": "csp_DiDuan",
-			"name": "通道-11（SP）",
+			"name": "DiDuan（SP）",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -132,7 +132,7 @@
 		},
 		{
 			"key": "天堂资源",
-			"name": "通道-17（T1官采）",
+			"name": "天堂资源（T1官采）",
 			"type": 1,
 			"api": "http://vipmv.cc/api.php/provide/vod/",
 			"searchable": 1,
@@ -191,7 +191,7 @@
 		//{"key":"csp_Wmkk","name":"完美看看（SP）","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 		{
 			"key": "csp_LibVio",
-			"name": "通道-18（SP）",
+			"name": "LibVio（SP）",
 			"type": 3,
 			"api": "csp_Lib",
 			"searchable": 1,
@@ -200,7 +200,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "通道-19（SP）",
+			"name": "Auete（SP）",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
@@ -209,7 +209,7 @@
 		},
 		{
 			"key": "csp_Cokemv",
-			"name": "通道-20（SP）",
+			"name": "Cokemv（SP）",
 			"type": 3,
 			"api": "csp_Cokemv",
 			"searchable": 1,
@@ -218,7 +218,7 @@
 		},
 		{
 			"key": "csp_剧荒",
-			"name": "通道-21（SP）",
+			"name": "剧荒（SP）",
 			"type": 3,
 			"api": "csp_Juhuang",
 			"searchable": 1,
@@ -227,7 +227,7 @@
 		},
 		{
 			"key": "csp_Mjxq",
-			"name": "通道-22（SP）",
+			"name": "Mjxq（SP）",
 			"type": 3,
 			"api": "csp_Mjxq",
 			"searchable": 1,
@@ -236,7 +236,7 @@
 		},
 		{
 			"key": "csp_CZSPP",
-			"name": "通道-23（SP）",
+			"name": "CZSPP（SP）",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -245,7 +245,7 @@
 		},
 		{
 			"key": "追剧喵",
-			"name": "通道-23（SP）",
+			"name": "追剧喵（SP）",
 			"type": 3,
 			"api": "csp_ZJMiao",
 			"searchable": 1,
@@ -254,7 +254,7 @@
 		},
 		{
 			"key": "3EDY",
-			"name": "通道-24（SP）",
+			"name": "3EDY（SP）",
 			"type": 3,
 			"api": "csp_EEEDY",
 			"searchable": 1,
@@ -263,7 +263,7 @@
 		},
 		{
 			"key": "csp_Tkys",
-			"name": "通道-25（SP）",
+			"name": "Tkys（SP）",
 			"type": 3,
 			"api": "csp_Tkys",
 			"searchable": 1,
@@ -290,7 +290,7 @@
 		},
 		{
 			"key": "csp_dd5555",
-			"name": "通道-26（SP嗅探）",
+			"name": "555电影（SP嗅探）",
 			"api": "csp_Dy555",
 			"type": 3,
 			"filterable": 1,
@@ -299,7 +299,7 @@
 		},
 		{
 			"key": "csp_QQ",
-			"name": "通道-27（SP腾讯官采）",
+			"name": "QQ（SP腾讯官采）",
 			"type": 3,
 			"api": "csp_QQ",
 			"searchable": 1,
@@ -308,7 +308,7 @@
 		},
 		{
 			"key": "csp_MGTV",
-			"name": "通道-28（SP芒果官采）",
+			"name": "芒果（SP芒果官采）",
 			"type": 3,
 			"api": "csp_MGTV",
 			"searchable": 1,
@@ -317,7 +317,7 @@
 		},
 		{
 			"key": "csp_IQIYI",
-			"name": "通道-29（SP爱奇艺官采）",
+			"name": "爱奇艺（SP爱奇艺官采）",
 			"type": 3,
 			"api": "csp_IQIYI",
 			"searchable": 1,
@@ -326,7 +326,7 @@
 		},
 		{
 			"key": "KanSJ_spider",
-			"name": "通道-30（SP）",
+			"name": "KanSJ（SP）",
 			"api": "csp_KanSJ",
 			"type": 3,
 			"filterable": 1,
@@ -337,7 +337,7 @@
 		//		{"key":"293视频","name":"通道-31（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_AppYsV2",
-			"name": "通道-32（V2）",
+			"name": "AppYsV2（V2）",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -347,7 +347,7 @@
 		},
 		{
 			"key": "csp_xpath_6d",
-			"name": "通道-33（XP）",
+			"name": "6D（XP）",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -357,7 +357,7 @@
 		},
 		{
 			"key": "csp_biubiu_骚火电影",
-			"name": "通道-34（XB）",
+			"name": "骚火电影（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -367,7 +367,7 @@
 		},
 		{
 			"key": "csp_xbb_ftHD",
-			"name": "通道-35（XB）",
+			"name": "ftHD（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -378,7 +378,7 @@
 		//		{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/gtcsky/json_file/raw/branch/master/NewJsons/czzy2.json"}, 
 		{
 			"key": "csp_biubiu_影视工厂",
-			"name": "通道-36（XB）",
+			"name": "影视工厂（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -388,7 +388,7 @@
 		},
 		{
 			"key": "csp_biubiu_555电影",
-			"name": "通道-37（XB）",
+			"name": "555电影（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -398,7 +398,7 @@
 		},
 		{
 			"key": "诺讯资源",
-			"name": "通道-38（T1官采）",
+			"name": "诺讯资源（T1官采）",
 			"type": 1,
 			"api": "http://caiji.nxflv.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -406,7 +406,7 @@
 		},
 		{
 			"key": "M3U8资源",
-			"name": "通道-39（T1官采）",
+			"name": "M3U8资源（T1官采）",
 			"type": 1,
 			"api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
 			"searchable": 1,
@@ -455,7 +455,7 @@
 		},
 		{
 			"key": "csp_xpath_jbb",
-			"name": "通道-40（XP）",
+			"name": "皮皮泡（XP）",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -465,7 +465,7 @@
 		},
 		{
 			"key": "mtv_xp_789ba",
-			"name": "通道-41（XP）",
+			"name": "mtv（XP）",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -487,7 +487,7 @@
 		},
 		{
 			"key": "csp_biubiu_真不卡cerrd",
-			"name": "通道-42（XB）",
+			"name": "真不卡（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -497,7 +497,7 @@
 		},
 		{
 			"key": "csp_biubiu_特狗影视",
-			"name": "通道-43（XB）",
+			"name": "特狗影视（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -507,7 +507,7 @@
 		},
 		{
 			"key": "csp_biubiu_蓝莓影视",
-			"name": "通道-44（XB）",
+			"name": "蓝莓影视（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -517,7 +517,7 @@
 		},
 		{
 			"key": "考拉直链",
-			"name": "通道-45（T1）",
+			"name": "考拉直链（T1）",
 			"type": 1,
 			"api": "https://ikaola.tv/api.php/provide/vod/",
 			"searchable": 1,
@@ -525,7 +525,7 @@
 		},
 		{
 			"key": "csp_AppYsV2_美剧范",
-			"name": "通道-46（V2）",
+			"name": "美剧范（V2）",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -535,7 +535,7 @@
 		},
 		{
 			"key": "csp_xpath_meiju56",
-			"name": "通道-47（XP）",
+			"name": "美剧（XP）",
 			"type": 3,
 			"api": "csp_XPathFilter",
 			"searchable": 1,
@@ -545,7 +545,7 @@
 		},
 		{
 			"key": "csp_XPath_bidiys",
-			"name": "通道-48（XP）",
+			"name": "bidiys（XP）",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -555,7 +555,7 @@
 		},
 		{
 			"key": "小熊",
-			"name": "通道-49（SP）",
+			"name": "小熊（SP）",
 			"type": 3,
 			"api": "csp_Xxys",
 			"searchable": 1,
@@ -564,7 +564,7 @@
 		},
 		{
 			"key": "csp_XYQBiu_lingyun",
-			"name": "通道-50（XYQ）",
+			"name": "凌云影视（XYQ）",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -574,7 +574,7 @@
 		},
 		{
 			"key": "csp_XYQBiu_23yy",
-			"name": "通道-51（XYQ）",
+			"name": "23yy（XYQ）",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -584,7 +584,7 @@
 		},
 		{
 			"key": "csp_XYQBiu_wanneng",
-			"name": "通道-52（XYQ）",
+			"name": "wanneng（XYQ）",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -594,7 +594,7 @@
 		},
 		{
 			"key": "csp_xpath_qiyou",
-			"name": "通道-53（XP）",
+			"name": "qiyou（XP）",
 			"type": 3,
 			"api": "csp_XPathMac",
 			"searchable": 1,
@@ -605,7 +605,7 @@
 		//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/gtcsky/json_file/raw/branch/master/NewJsons/qiyou.json"},
 		{
 			"key": "csp_biubiu_voflix",
-			"name": "通道-54（XB）",
+			"name": "voflix（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -615,7 +615,7 @@
 		},
 		{
 			"key": "csp_biubiu_cupfox",
-			"name": "通道-55（XB）",
+			"name": "茶杯狐（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -625,7 +625,7 @@
 		},
 		{
 			"key": "csp_biubiu_yekong",
-			"name": "通道-56（XB）",
+			"name": "夜空蓝光（XB）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -635,7 +635,7 @@
 		},
 		{
 			"key": "csp_appysv2_M2_暖光影视",
-			"name": "通道-56（V2）",
+			"name": "暖光影视（V2）",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -645,7 +645,7 @@
 		},
 		{
 			"key": "mtv_xp_jipinys",
-			"name": "通道-57（XP）",
+			"name": "极品影视 （XP）",
 			"type": 3,
 			"api": "csp_XPathMac",
 			"searchable": 1,
@@ -655,7 +655,7 @@
 		},
 		{
 			"key": "多多",
-			"name": "通道-58（T1有广告）",
+			"name": "多多（T1有广告）",
 			"type": 1,
 			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -679,7 +679,7 @@
 		},
 		{
 			"key": "金鹰资源",
-			"name": "通道-59（T1有广告）",
+			"name": "金鹰资源（T1有广告）",
 			"type": 1,
 			"api": "https://jyzyapi.com/provide/vod/",
 			"searchable": 1,
@@ -687,7 +687,7 @@
 		},
 		{
 			"key": "1080zyk",
-			"name": "通道-60（T1有广告）",
+			"name": "1080zyk（T1有广告）",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/api_mac10.php",
 			"searchable": 1,
@@ -695,7 +695,7 @@
 		},
 		{
 			"key": "csp_xpath_xqmi",
-			"name": "通道-61（XP）",
+			"name": "小强迷（XP）",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -705,7 +705,7 @@
 		},
 		{
 			"key": "csp_xpath_pianku",
-			"name": "通道-62（XP）",
+			"name": "片库（XP）",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -715,7 +715,7 @@
 		},
 		{
 			"key": "影图",
-			"name": "通道-63（T1有广告）",
+			"name": "影图（T1有广告）",
 			"type": 1,
 			"api": "https://cj.vodimg.top/api.php/provide/vod/",
 			"searchable": 1,
@@ -743,7 +743,7 @@
 		},
 		{
 			"key": "csp_app_小鸟动漫",
-			"name": "动漫通道-66（V2有广告）",
+			"name": "小鸟动漫（V2有广告）",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -753,7 +753,7 @@
 		},
 		{
 			"key": "mtv_xp_AGE",
-			"name": "动漫通道-67（XP有广告）",
+			"name": "AGE动漫（XP有广告）",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
@@ -763,7 +763,7 @@
 		},
 		{
 			"key": "mtv_xp_动漫岛源",
-			"name": "动漫通道-68（XP有广告）",
+			"name": "动漫岛源（XP有广告）",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
@@ -773,7 +773,7 @@
 		},
 		{
 			"key": "csp_biubiu_风车动漫",
-			"name": "动漫通道-69（XB有广告）",
+			"name": "风车动漫（XB有广告）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -783,7 +783,7 @@
 		},
 		{
 			"key": "csp_biubiu_OmoFun动漫",
-			"name": "动漫通道-70（XB有广告）",
+			"name": "OmoFun动漫（XB有广告）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -793,7 +793,7 @@
 		},
 		{
 			"key": "csp_biubiu_森屋新番",
-			"name": "动漫通道-71（XB有广告）",
+			"name": "森屋新番（XB有广告）",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -803,7 +803,7 @@
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
-			"name": "动漫通道-72（XB有广告）",
+			"name": "动漫巴士（XB有广告）",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 1,
