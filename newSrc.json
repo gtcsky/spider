@@ -22,7 +22,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/bili.json"
+			"ext": "https://gitea.com/gtcsky/json_file/raw/branch/master/NewJsons/bili.json"
 		},
 		{
 			"key": "360_spider",
