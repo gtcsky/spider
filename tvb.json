@@ -1,7 +1,6 @@
 ﻿
 {
-	//"spider": "https://gitee.com/cherry0532/tvbox/raw/master/jar/zy.jar;md5;c69b1be639443838733752102b575b06",
-	"spider": "https://gitea.com/gtcsky/json_file/raw/branch/master/jar/zy.jar;md5;c69b1be639443838733752102b575b06",
+	"spider": "https://gitee.com/cherry0532/tvbox/raw/master/jar/zy.jar;md5;c69b1be639443838733752102b575b06",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
