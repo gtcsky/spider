@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://gitea.com/gtcbaby/json_file/raw/branch/master/jar/0906.jar",
+	"spider": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/0906.jar",
 	//jar包嫖自TG群baitianwu大佬精细缝合
 	"wallpaper": "http://刚刚.live/图",
 	//直播没时间维护，白嫖云星日记
@@ -26,7 +26,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/bili.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/bili.json"
 		},
 		{
 			"key": "360_spider",
@@ -156,7 +156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/alist.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/alist.json"
 		},
 		{
 			"key": "Yiso",
@@ -353,7 +353,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/6d.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/6d.json"
 		},
 		{
 			"key": "csp_biubiu_骚火电影",
@@ -363,7 +363,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/shdy.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/shdy.json"
 		},
 		{
 			"key": "csp_xbb_ftHD",
@@ -373,9 +373,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/fthd.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/fthd.json"
 		},
-		//		{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/czzy2.json"}, 
+		//		{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/czzy2.json"}, 
 		{
 			"key": "csp_biubiu_影视工厂",
 			"name": "影视工厂（XB）",
@@ -384,7 +384,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/ysgc2.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/ysgc2.json"
 		},
 		{
 			"key": "csp_biubiu_555电影",
@@ -394,7 +394,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/555.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/555.json"
 		},
 		{
 			"key": "诺讯资源",
@@ -412,7 +412,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		//		{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/88kanqiu.json"},
+		//		{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/88kanqiu.json"},
 		{
 			"key": "csp_xpath_网络搜集库qiumi",
 			"name": "球迷通道（XP）",
@@ -421,7 +421,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/qiumi.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/qiumi.json"
 		},
 		{
 			"key": "csp_biubiu_斗鱼",
@@ -431,7 +431,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/douyu.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/douyu.json"
 		},
 		{
 			"key": "csp_xpath_huya",
@@ -441,7 +441,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/huya2.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/huya2.json"
 		},
 		{
 			"key": "csp_xpath_kuqimv",
@@ -451,7 +451,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/kuqimv.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/kuqimv.json"
 		},
 		{
 			"key": "csp_xpath_jbb",
@@ -461,7 +461,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/jubaibai.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/jubaibai.json"
 		},
 		{
 			"key": "mtv_xp_789ba",
@@ -471,10 +471,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/789yb.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/789yb.json"
 		},
-		//		{"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/naifeiorg.json"},
-		//		{"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/yanaifei.json"},
+		//		{"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/naifeiorg.json"},
+		//		{"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/yanaifei.json"},
 		{
 			"key": "csp_xpath_007",
 			"name": "玲玲七（有广告）",
@@ -483,7 +483,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/007.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/007.json"
 		},
 		{
 			"key": "csp_biubiu_真不卡cerrd",
@@ -493,7 +493,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/zhenbuka.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/zhenbuka.json"
 		},
 		{
 			"key": "csp_biubiu_特狗影视",
@@ -503,7 +503,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/tgys.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/tgys.json"
 		},
 		{
 			"key": "csp_biubiu_蓝莓影视",
@@ -513,7 +513,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/lanmei.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/lanmei.json"
 		},
 		{
 			"key": "考拉直链",
@@ -541,7 +541,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/meiju562.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/meiju562.json"
 		},
 		{
 			"key": "csp_XPath_bidiys",
@@ -551,7 +551,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/bidiys2.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/bidiys2.json"
 		},
 		{
 			"key": "小熊",
@@ -570,7 +570,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/lingyun.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/lingyun.json"
 		},
 		{
 			"key": "csp_XYQBiu_23yy",
@@ -580,7 +580,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/23ys.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/23ys.json"
 		},
 		{
 			"key": "csp_XYQBiu_wanneng",
@@ -590,7 +590,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/wanneng.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/wanneng.json"
 		},
 		{
 			"key": "csp_xpath_qiyou",
@@ -600,9 +600,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/qiyouxp.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/qiyouxp.json"
 		},
-		//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/qiyou.json"},
+		//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/qiyou.json"},
 		{
 			"key": "csp_biubiu_voflix",
 			"name": "voflix（XB）",
@@ -611,7 +611,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/voflix.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/voflix.json"
 		},
 		{
 			"key": "csp_biubiu_cupfox",
@@ -621,7 +621,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/cupfox.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/cupfox.json"
 		},
 		{
 			"key": "csp_biubiu_yekong",
@@ -631,7 +631,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/yekong.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/yekong.json"
 		},
 		{
 			"key": "csp_appysv2_M2_暖光影视",
@@ -651,7 +651,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/jipin.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/jipin.json"
 		},
 		{
 			"key": "多多",
@@ -701,7 +701,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/xqm.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/xqm.json"
 		},
 		{
 			"key": "csp_xpath_pianku",
@@ -711,7 +711,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/pianku.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/pianku.json"
 		},
 		{
 			"key": "影图",
@@ -759,7 +759,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/AGE.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/AGE.json"
 		},
 		{
 			"key": "mtv_xp_动漫岛源",
@@ -769,7 +769,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/dongmandao.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/dongmandao.json"
 		},
 		{
 			"key": "csp_biubiu_风车动漫",
@@ -779,7 +779,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/fengchedm.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/fengchedm.json"
 		},
 		{
 			"key": "csp_biubiu_OmoFun动漫",
@@ -789,7 +789,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/0mofun.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/0mofun.json"
 		},
 		{
 			"key": "csp_biubiu_森屋新番",
@@ -799,7 +799,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/senwu.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/senwu.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
@@ -809,7 +809,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/dm84.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/dm84.json"
 		},
 		//		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
 		//		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
@@ -831,7 +831,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/tingbook.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/tingbook.json"
 		},
 		{
 			"key": "csp_XYQBiu_dsp",
@@ -841,7 +841,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/duanshipin.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/duanshipin.json"
 		},
 		{
 			"key": "mtv_pc_yinfans",
@@ -851,7 +851,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/yinfans.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/yinfans.json"
 		},
 		{
 			"key": "bdys",
@@ -861,7 +861,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/gtcbaby/json_file/raw/branch/master/NewJsons/bdyscl.json"
+			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/bdyscl.json"
 		},
 		//以下T4白嫖唐长老TG，见谅~
 		//   {"key":"VIP2","name":"通道-12（唐长老T4）","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
