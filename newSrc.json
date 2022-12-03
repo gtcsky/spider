@@ -55,16 +55,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//来自桉佬提供的公开接口
-		{
-			"key": "感谢桉佬",
-			"name": "榜单荐片（桉佬T4）",
-			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=voflix,bdys01,onelist,dy555,gitcafe&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=6",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
 		{
 			"key": "Ikan",
 			"name": "Ikan（SP）",
@@ -486,16 +476,6 @@
 			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/007.json"
 		},
 		{
-			"key": "csp_biubiu_真不卡cerrd",
-			"name": "真不卡（XB）",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/zhenbuka.json"
-		},
-		{
 			"key": "csp_biubiu_特狗影视",
 			"name": "特狗影视（XB）",
 			"type": 3,
@@ -552,15 +532,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/bidiys2.json"
-		},
-		{
-			"key": "小熊",
-			"name": "小熊（SP）",
-			"type": 3,
-			"api": "csp_Xxys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "csp_XYQBiu_lingyun",
@@ -790,16 +761,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/0mofun.json"
-		},
-		{
-			"key": "csp_biubiu_森屋新番",
-			"name": "森屋新番（XB有广告）",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/NewJsons/senwu.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
