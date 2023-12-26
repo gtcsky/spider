@@ -182,6 +182,7 @@ CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 📡卫视频道,#genre#
+北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 北京卫视,http://110.16.65.6:8888/newlive/live/hls/19/live.m3u8
@@ -190,35 +191,16 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卫视,http://hz752.live:63/vvs/astv.php?id=bjwshd
-北京卫视,http://hz752.live:63/vvs/bj.php?id=bjws
-北京卫视,http://39.134.136.151:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
-北京卫视,http://hz752.live:63/vvs/bst.php?id=bjws
-北京卫视,http://hz752.live:63/vvs/yst.php?id=beijingstv
-北京卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-北京卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,https://cntv.sbs/live?auth=2307280808&id=bjws
-北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 
+东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,http://110.16.65.6:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://111.20.35.103:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://hz752.live:63/vvs/astv.php?id=dfwshd
-东方卫视,http://hz752.live:63/vvs/bstv.php?id=16
-东方卫视,http://39.134.136.151:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
-东方卫视,http://hz752.live:63/vvs/bst.php?id=dfws
-东方卫视,http://hz752.live:63/vvs/yst.php?id=dongfangstv
-东方卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-东方卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
-东方卫视,http://hz752.live:63/vvs/migu.php?id=dfws
-东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,https://cntv.sbs/live?auth=2307280808&id=dfws
 
 
@@ -242,10 +224,8 @@ CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 浙江卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://cntv.sbs/live?auth=2307280808&id=zjws
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-
 
 
 重庆卫视,http://110.16.65.6:8888/newlive/live/hls/31/live.m3u8
