@@ -397,6 +397,33 @@ CCTV9 8M,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjianHD
 
+国际,#genre#
+BBC美洲,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBS新闻,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+CG新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNN新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+📡北京频道,#genre#
+北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000    有效
+北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000    有效
+北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000    有效
+北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000    有效
+北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000    有效
+北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000    有效
+体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000    有效
+
 📡广东频道,#genre#
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
