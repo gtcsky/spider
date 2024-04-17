@@ -38,7 +38,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
     },
     {
       "key": "meowtv_Atys",
@@ -49,7 +49,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_jhys",
@@ -60,7 +60,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_ddys",
@@ -80,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
     },
     {
       "key": "meowtv_yqks",
@@ -104,71 +104,71 @@
       "key": "meowtv_nmys",
       "name": "农民",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/农民影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/农民影视.js"
     },
     {
       "key": "meowtv_wfys",
       "name": "网飞",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/网飞影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/网飞影视.js"
     },
     {
       "key": "meowtv_dyxs",
       "name": "先生",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/电影先生.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/电影先生.js"
     },
     {
       "key": "meowtv_mays",
       "name": "米爱",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/米爱影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/米爱影视.js"
     },
     {
       "key": "meowtv_qxys",
       "name": "秋霞",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/秋霞影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/秋霞影视.js"
     },
     {
       "key": "meowtv_sjys",
       "name": "视觉",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/视觉影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/视觉影视.js"
     },
     {
       "key": "meowtv_xcys",
       "name": "星辰",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/星辰影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/星辰影视.js"
     },
     {
       "key": "meowtv_qnys",
@@ -178,7 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/七年影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/七年影视.json"
     },
     {
       "key": "meowtv_thys",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/土豪影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/土豪影视.json"
     },
     {
       "key": "meowtv_Qxys",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/七新影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/七新影视.json"
     },
     {
       "key": "meowtv_ynys",
@@ -208,8 +208,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/鸭奈影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/鸭奈影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_bkys",
@@ -219,8 +219,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/不卡影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/不卡影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_ssys",
@@ -230,8 +230,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/三思影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/三思影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_wdys",
@@ -241,8 +241,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/万达影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/万达影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_Nfys",
@@ -252,8 +252,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/奈飞影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/奈飞影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_Free",
@@ -263,7 +263,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/免费影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/免费影视.json"
     },
     {
       "key": "meowtv_qyyy",
@@ -273,7 +273,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/奇优影院.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/奇优影院.json"
     },
     {
       "key": "meowtv_bdys",
@@ -283,8 +283,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/哔嘀影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/哔嘀影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_348D",
@@ -294,8 +294,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/蓝光影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/蓝光影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_03ys",
@@ -305,8 +305,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/零三影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/零三影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_hxys",
@@ -316,7 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/好戏影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/好戏影视.json"
     },
     {
       "key": "meowtv_phys",
@@ -326,7 +326,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/胖虎影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/胖虎影视.json"
     },
     {
       "key": "meowtv_dgys",
@@ -336,7 +336,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/达龟影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/达龟影视.json"
     },
     {
       "key": "meowtv_akyy",
@@ -346,8 +346,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/爱看影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/爱看影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_scys",
@@ -357,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/圣城影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/圣城影视.json"
     },
     {
       "key": "meowtv_tvbb",
@@ -367,7 +367,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/TVB云播.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/TVB云播.json"
     },
     {
       "key": "meowtv_syys",
@@ -377,8 +377,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/速映影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/速映影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_Shys",
@@ -388,8 +388,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/双黄影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/双黄影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_myys",
@@ -399,8 +399,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/麻衣影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/麻衣影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_Kkys",
@@ -410,8 +410,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/库库影视.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/库库影视.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_wwys",
@@ -421,7 +421,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/五五影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/五五影视.json"
     },
     {
       "key": "meowtv_Hhys",
@@ -431,7 +431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/黑狐影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/黑狐影视.json"
     },
     {
       "key": "meowtv_kcys",
@@ -441,7 +441,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/酷茶影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/酷茶影视.json"
     },
     {
       "key": "meowtv_ggys",
@@ -451,7 +451,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/光棍影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/光棍影视.json"
     },
     {
       "key": "meowtv_akys",
@@ -462,7 +462,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "[排序:lz线路,kuaik]",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
     },
     {
       "key": "meowtv_yyys",
@@ -512,7 +512,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_69mj",
@@ -523,7 +523,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_zxzj",
@@ -534,97 +534,97 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow3.jar;md5;893D0391C828FD753EE4055EB5D4751A"
     },
     {
       "key": "meowtv_jpyy",
       "name": "荐片",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/荐片影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/荐片影视.js"
     },
     {
       "key": "meowtv_shys",
       "name": "骚火",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/骚火影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/骚火影视.js"
     },
     {
       "key": "meowtv_dmys",
       "name": "大米",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/大米影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/大米影视.js"
     },
     {
       "key": "meowtv_kkys",
       "name": "看看",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/看看影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/看看影视.js"
     },
     {
       "key": "meowtv_qfys",
       "name": "起飞",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/起飞影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/起飞影视.js"
     },
     {
       "key": "meowtv_zzys",
       "name": "子子",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/子子影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/子子影视.js"
     },
     {
       "key": "meowtv_jyys",
       "name": "九悠",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/九悠影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/九悠影视.js"
     },
     {
       "key": "meowtv_vfys",
       "name": "VOF ",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/VOF影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/VOF影视.js"
     },
     {
       "key": "meowtv_nyys",
       "name": "纽约",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/纽约影视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/纽约影视.js"
     },
     {
       "key": "meowtv_996y",
@@ -648,7 +648,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/威士影视.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/威士影视.json"
     },
     {
       "key": "meowtv_49ys",
@@ -820,7 +820,7 @@
         "喜剧片",
         "战争片"
       ],
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
       "key": "meowtv_kkzy",
@@ -864,61 +864,61 @@
       "key": "meowtv_qysp",
       "name": "奇艺┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/奇艺视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/奇艺视频.js"
     },
     {
       "key": "meowtv_txsp",
       "name": "腾讯┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/腾讯视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/腾讯视频.js"
     },
     {
       "key": "meowtv_yksp",
       "name": "优酷┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/优酷视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/优酷视频.js"
     },
     {
       "key": "meowtv_mgsp",
       "name": "芒果┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/芒果视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/芒果视频.js"
     },
     {
       "key": "meowtv_sgys",
       "name": "搜狗┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/搜狗视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/搜狗视频.js"
     },
     {
       "key": "meowtv_fqdj",
       "name": "番茄┃短剧",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/番茄短剧.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/番茄短剧.js"
     },
     {
       "key": "meowtv_bydj",
@@ -928,8 +928,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/榜一短剧.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/榜一短剧.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_hmdj",
@@ -939,7 +939,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
     },
     {
       "key": "meowtv_rxdj",
@@ -959,8 +959,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/影港磁力.json",
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/影港磁力.json",
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_6Vcl",
@@ -980,7 +980,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_kbcl",
@@ -990,7 +990,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_xlbc",
@@ -1000,7 +1000,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_Dm84",
@@ -1042,91 +1042,91 @@
       "key": "meowtv_ntdm",
       "name": "柠桐┃动漫",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/柠桐动漫.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/柠桐动漫.js"
     },
     {
       "key": "meowtv_mddm",
       "name": "漫岛┃动漫",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/漫岛动漫.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/漫岛动漫.js"
     },
     {
       "key": "meowtv_lmdm",
       "name": "路漫┃动漫",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/路漫动漫.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/路漫动漫.js"
     },
     {
       "key": "meowtv_qmdm",
       "name": "奇米┃动漫",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/奇米动漫.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/奇米动漫.js"
     },
     {
       "key": "meowtv_kbdm",
       "name": "看吧┃动漫",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/看吧动漫.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/看吧动漫.js"
     },
     {
       "key": "meowtv_88kq",
       "name": "八八┃体育",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/八八体育.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/八八体育.js"
     },
     {
       "key": "meowtv_qmty",
       "name": "JRK ┃体育",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/JRK体育.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/JRK体育.js"
     },
     {
       "key": "meowtv_310q",
       "name": "三一┃体育",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/三一体育.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/三一体育.js"
     },
     {
       "key": "meowtv_gdty",
       "name": "格斗┃体育",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/格斗体育.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/格斗体育.js"
     },
     {
       "key": "meowtv_qety",
@@ -1136,7 +1136,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/企鹅体育.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/企鹅体育.json"
     },
     {
       "key": "meowtv_mxmv",
@@ -1150,47 +1150,47 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/明星MV.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/明星MV.json"
     },
     {
       "key": "meowtv_kqmv",
       "name": "酷奇┃ MV ",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/酷奇视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/酷奇视频.js"
     },
     {
       "key": "meowtv_hyzb",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/虎牙直播.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/虎牙直播.js"
     },
     {
       "key": "meowtv_dyzb",
       "name": "斗鱼┃直播",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/斗鱼直播.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/斗鱼直播.js"
     },
     {
       "key": "meowtv_blzb",
       "name": "哔哩┃直播",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/哔哩直播.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/哔哩直播.js"
     },
     {
       "key": "meowtv_jhzb",
@@ -1205,21 +1205,21 @@
       "key": "meowtv_jdsp",
       "name": "聚短┃视频",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/聚短视频.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/聚短视频.js"
     },
     {
       "key": "meowtv_ysxs",
       "name": "有声┃小说",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/有声小说.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/有声小说.js"
     },
     {
       "key": "meowtv_blhj",
@@ -1229,7 +1229,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/哔哩合集.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/哔哩合集.json"
     },
     {
       "key": "meowtv_blgq",
@@ -1239,7 +1239,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/json/哔哩歌曲.json"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/json/哔哩歌曲.json"
     },
     {
       "key": "meowtv_jjjx",
@@ -1254,41 +1254,41 @@
       "key": "meowtv_txdh",
       "name": "腾讯┃动画",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/腾讯动画.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/腾讯动画.js"
     },
     {
       "key": "meowtv_qydh",
       "name": "奇艺┃动画",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/奇艺动画.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/奇艺动画.js"
     },
     {
       "key": "meowtv_mgdh",
       "name": "芒果┃动画",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/芒果动画.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/芒果动画.js"
     },
     {
       "key": "meowtv_tqss",
       "name": "童趣┃搜视",
       "type": 3,
-      "api": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/drpy2.js",
+      "api": "https://gitee.com/current_cop/gtcsky/raw/master/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/gtcsky/json_file/raw/branch/master/js/童趣搜视.js"
+      "ext": "https://gitee.com/current_cop/gtcsky/raw/master/js/童趣搜视.js"
     },
     {
       "key": "meowtv_bdsp",
@@ -1299,7 +1299,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "type_flag": 0,
-      "jar": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      "jar": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow5.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"
     },
     {
       "key": "meowtv_qyss",
@@ -1369,13 +1369,13 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://agit.ai/gtcsky/json_file/raw/branch/master/zb.txt",
+      "url": "https://gitee.com/current_cop/gtcsky/raw/master/zb.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://agit.ai/gtcsky/json_file/raw/branch/master/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://gitee.com/current_cop/gtcsky/raw/master/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://tool.teyonds.com/api",
   "ijk": [
     {
