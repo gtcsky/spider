@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🤓公众号 ┃ Aliwen小栈",
+      "name": "豆瓣首页",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
