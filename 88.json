@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/current_cop/gtcsky/raw/gitee/custom_spider.jar;md5;0b7e3be86dbb3609755171c3de694b3c",
+  "spider": "https://gitee.com/current_cop/gtcsky/raw/gitee/spider/my_spider.jar;md5;52949d1a28ddc33c6d2bfe4156459101",
   "wallpaper": "https://gitee.com/current_cop/gtcsky/raw/gitee/w1.jpg",
   "logo": "https://gitee.com/current_cop/gtcsky/raw/gitee/ol.txt",
   "sites": [
@@ -25,10 +25,10 @@
       }
     },
     {
-      "key": "Hanime",
-      "name": "Hanime",
+      "key": "Bili",
+      "name": "Bili",
       "type": 3,
-      "api": "csp_Hanime",
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -45,20 +45,140 @@
       "timeout": 10
     },
     {
-      "key": "Eighteen",
-      "name": "Eighteen",
+      "key": "CaoLiu",
+      "name": "CaoLiu",
       "type": 3,
-      "api": "csp_Eighteen",
+      "api": "csp_CaoLiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10
     },
     {
-      "key": "Doll",
-      "name": "Doll",
+      "key": "Dm84",
+      "name": "Dm84",
       "type": 3,
-      "api": "csp_Doll",
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Duanju",
+      "name": "Duanju",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Fpie2",
+      "name": "Fpie2",
+      "type": 3,
+      "api": "csp_Fpie2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "HkTv",
+      "name": "HkTv",
+      "type": 3,
+      "api": "csp_HkTv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "J91",
+      "name": "J91",
+      "type": 3,
+      "api": "csp_J91",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "MGTV",
+      "name": "MGTV",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Douban",
+      "name": "Douban",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Xb6v",
+      "name": "Xb6v",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Yingshiche",
+      "name": "Yingshiche",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Wogg",
+      "name": "Wogg",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "XiaoZhiTiao",
+      "name": "XiaoZhiTiao",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "Miss",
+      "name": "Miss",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "MiMei",
+      "name": "MiMei",
+      "type": 3,
+      "api": "csp_MiMei",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
