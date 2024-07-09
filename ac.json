@@ -1,8 +1,8 @@
 {
-//  "spider": "https://gitee.com/current_cop/gtcsky/raw/gitee/okjpg.jar;md5;e32fe03585d44ca6a418104bc24b25e1",d4716c73f503962942a8672149e90dd1  okjpg.jar
-  "spider": "https://gitee.com/current_cop/gtcsky/raw/gitee/okjpg.jar;md5;d4716c73f503962942a8672149e90dd1",
-  "wallpaper": "https://gitee.com/current_cop/gtcsky/raw/gitee/w1.jpg",
-  "logo": "https://gitee.com/current_cop/gtcsky/raw/gitee/ol.txt",
+//  "spider": "https://raw.githubusercontent.com/gtcsky/spider/github/okjpg.jar;md5;e32fe03585d44ca6a418104bc24b25e1",d4716c73f503962942a8672149e90dd1  okjpg.jar
+  "spider": "https://raw.githubusercontent.com/gtcsky/spider/github/okjpg.jar;md5;d4716c73f503962942a8672149e90dd1",
+  "wallpaper": "https://raw.githubusercontent.com/gtcsky/spider/github/w1.jpg",
+  "logo": "https://raw.githubusercontent.com/gtcsky/spider/github/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
@@ -181,8 +181,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/dadagui.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/dadagui.js",
       "timeout": 15
     },
     {
@@ -192,8 +192,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/libvio.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/libvio.js",
       "timeout": 15
     },
     {
@@ -203,8 +203,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/ddys.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/ddys.js",
       "timeout": 15
     },
     {
@@ -359,8 +359,8 @@
       "key": "jrsjs",
       "name": "⚽Jrs┃球迷",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/jrs.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/jrs.js",
       "style": {
         "type": "list"
       },
@@ -373,8 +373,8 @@
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/310.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/310.js",
       "style": {
         "type": "list"
       },
@@ -387,8 +387,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/huyazhibo.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/huyazhibo.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -402,8 +402,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/douyuzhibo.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/douyuzhibo.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -417,8 +417,8 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/duanshipin.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/duanshipin.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -428,8 +428,8 @@
       "key": "海洋听书js",
       "name": "🎧海洋┃听书",
       "type": 3,
-      "api": "https://gitee.com/current_cop/gtcsky/raw/gitee/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/current_cop/gtcsky/raw/gitee/js/haiyangtingshu.js",
+      "api": "https://raw.githubusercontent.com/gtcsky/spider/github/drpy/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/gtcsky/spider/github/js/haiyangtingshu.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -453,7 +453,7 @@
       },
       "ext": {
         "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/current_cop/gtcsky/raw/gitee/bili.json"
+        "json": "https://raw.githubusercontent.com/gtcsky/spider/github/bili.json"
       },
       "timeout": 20
     },
@@ -471,7 +471,7 @@
       },
       "ext": {
         "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/current_cop/gtcsky/raw/gitee/biliych.json"
+        "json": "https://raw.githubusercontent.com/gtcsky/spider/github/biliych.json"
       },
       "timeout": 20
     },
@@ -714,7 +714,7 @@
     {
       "name": "live-1",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gitee.com/current_cop/gtcsky/raw/gitee/li.txt",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/gtcsky/spider/github/li.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -766,7 +766,7 @@
     {
       "name": "gat",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gitee.com/current_cop/gtcsky/raw/gitee/gat.txt",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/gtcsky/spider/github/gat.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
